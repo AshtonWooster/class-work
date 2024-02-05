@@ -22,3 +22,13 @@ while True:
     except StopIteration as e:
         print("Done!")
         break
+
+
+num = 20
+string = "Hello World!"
+boolean = True
+my_list = [2, "Hi", False]
+dictionary = {"Hello" : 2, "World" : True}
+
+print(dictionary["Hello"])
+

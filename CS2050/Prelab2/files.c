@@ -31,5 +31,5 @@ void outputArray(float* arr, int length) {
 
 void freeFloatArray(float** floatArray) {
     free(*floatArray);
-    floatArray = NULL;
+    *floatArray = NULL;
 }

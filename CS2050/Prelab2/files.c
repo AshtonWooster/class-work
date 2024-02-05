@@ -19,7 +19,6 @@ float* readFloatFileIntoArray(FILE* floatFile, int* length) {
     }
 
     return floatArray;
-
 }
 
 void outputArray(float* arr, int length) {

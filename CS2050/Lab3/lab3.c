@@ -15,6 +15,10 @@ int * newBoard() {
     // Create a new int array with room for 2 hidden ints and a hidden float
     int* board = (int*) malloc(sizeof(int) * (BOARD_SIZE + 2) + sizeof(float));
 
+    if (!board) {
+        return NULL;
+    }
+
     // Initialize everything in the array to 0
     ((float*)board)[0] = 0;
     board++;

@@ -2,6 +2,7 @@
     "C_Cpp.default.compilerPath": "",
     "files.associations": {
         "stdio.h": "c",
-        "prelab4.h": "c"
+        "prelab4.h": "c",
+        "prelab5.h": "c"
     }
 }

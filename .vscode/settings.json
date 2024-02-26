@@ -3,6 +3,7 @@
     "files.associations": {
         "stdio.h": "c",
         "prelab4.h": "c",
-        "prelab5.h": "c"
+        "prelab5.h": "c",
+        "stdlib.h": "c"
     }
 }

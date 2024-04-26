@@ -5,6 +5,7 @@
         "prelab4.h": "c",
         "prelab5.h": "c",
         "stdlib.h": "c",
-        "lab9.h": "c"
+        "lab9.h": "c",
+        "lab10.h": "c"
     }
 }
